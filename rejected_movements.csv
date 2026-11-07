@@ -1,0 +1,5 @@
+sku,type,units,reason
+P01,OUT,9,Insufficient stock
+P99,OUT,3,Unknown SKU
+P02,INVALID,2,Invalid movement type
+P03,OUT,-5,Units must be positive

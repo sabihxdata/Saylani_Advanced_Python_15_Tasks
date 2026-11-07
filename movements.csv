@@ -1,0 +1,8 @@
+sku,type,units
+P01,OUT,4
+P01,OUT,9
+P01,IN,2
+P02,IN,5
+P99,OUT,3
+P02,INVALID,2
+P03,OUT,-5
